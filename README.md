@@ -1,1 +1,2 @@
-Command to bring up the application: npm start
+- Command to bring up the application: npm start
+- Applications runs on port 3000
